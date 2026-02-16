@@ -36,5 +36,16 @@ Instead of relying only on LiDAR or ground-level features, the system detects ce
 
 ---
 
-## 📂 Project Structure
+## Launch Navigation
+ros2 launch <your_package> <your_launch_file>.launch.py
+
+## 📸 Application
+
+Indoor autonomous robots
+
+Warehouse automation
+
+Competition robotics
+
+SLAM enhancement systems
 
